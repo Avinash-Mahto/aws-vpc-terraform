@@ -16,9 +16,9 @@ Before you begin, ensure that you have the following:
 
 1. Clone this repository to your local machine:
 
-   bash
+   ```bash
    git clone https://github.com/your-username/aws-vpc-terraform.git
----
+####################################################################################################
 
 1. Navigate to the project directory:
    ```bash
