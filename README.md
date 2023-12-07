@@ -1,5 +1,3 @@
-# aws-vpc-terraform
-
 # AWS VPC Terraform Script
 
 ## Overview
@@ -20,5 +18,8 @@ Before you begin, ensure that you have the following:
    ```bash
    git clone https://github.com/your-username/aws-vpc-terraform.git
 
-cd aws-vpc-terraform
+1. Navigate to the project directory
+   ```bash
+   cd aws-vpc-terraform
+
 
