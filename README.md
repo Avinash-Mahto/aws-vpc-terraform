@@ -35,9 +35,11 @@ Before you begin, ensure that you have the following:
   You will be prompted to confirm the changes. Type yes and press Enter.
 
 8. Once the script execution is complete, your AWS VPC and associated resources will be provisioned.
-
-## Cleanup
-
-   To destroy the created AWS VPC and resources, run:
+   ## Cleanup
    ```bash
    terraform destroy
+## variables
+
+The variables.tf file contains variables that you can customize to tailor the AWS VPC to your specific needs. Review and update these variables before running Terraform.
+## Contributing
+If you find issues or have suggestions for improvements, feel free to open an issue or create a pull request.
