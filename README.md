@@ -37,6 +37,6 @@ Before you begin, ensure that you have the following:
 ## Cleanup
 To destroy the created AWS VPC and resources, run:
    ```bash
-   terraform destroy```
+   terraform destroy`bash`
 
 You will be prompted to confirm the changes. Type yes and press Enter.
