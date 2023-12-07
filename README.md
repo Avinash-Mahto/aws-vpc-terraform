@@ -19,3 +19,6 @@ Before you begin, ensure that you have the following:
 
    ```bash
    git clone https://github.com/your-username/aws-vpc-terraform.git
+
+cd aws-vpc-terraform
+
