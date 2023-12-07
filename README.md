@@ -1,6 +1,4 @@
-<meta property="og:title" content="Your Repository Title" />
-<meta property="og:description" content="Your Repository Description" />
-<meta property="og:image" content="https://github.com/Avinash-Mahto/aws-vpc-terraform/blob/main/aws-vpc.png" />
+[![Logo](https://github.com/Avinash-Mahto/aws-vpc-terraform/blob/main/aws-vpc.png)](https://github.com/Avinash-Mahto/aws-vpc-terraform)
 
 # AWS VPC Terraform Script
 
