@@ -35,7 +35,10 @@ Before you begin, ensure that you have the following:
 7. Once the script execution is complete, your AWS VPC and associated resources will be provisioned.
 
 ## Cleanup
+
 To destroy the created AWS VPC and resources, run:
    ```bash
    terraform destroy
-8. You will be prompted to confirm the changes. Type yes and press Enter.
+Confirm the destruction by typing yes when prompted.
+
+
