@@ -38,7 +38,7 @@ Before you begin, ensure that you have the following:
    ## Cleanup
    ```bash
    terraform destroy
-## variables
+## Variables
 
 The variables.tf file contains variables that you can customize to tailor the AWS VPC to your specific needs. Review and update these variables before running Terraform.
 ## Contributing
