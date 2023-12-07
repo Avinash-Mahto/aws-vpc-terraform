@@ -1,3 +1,4 @@
+![GitHub Logo](https://github.com/Avinash-Mahto/aws-vpc-terraform/blob/main/aws-vpc.png)
 # AWS VPC Terraform Script
 
 ## Overview
