@@ -32,5 +32,12 @@ Before you begin, ensure that you have the following:
 6. Apply the Terraform configuration to create the AWS VPC:
    ```bash
    terraform apply
+   You will be prompted to confirm the changes. Type yes and press Enter.
+7. Once the script execution is complete, your AWS VPC and associated resources will be provisioned.
+
+## Cleanup
+To destroy the created AWS VPC and resources, run:
+   ```bash
+   terraform destroy
 
 
