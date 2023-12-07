@@ -1,4 +1,4 @@
-[![Logo](https://github.com/Avinash-Mahto/aws-vpc-terraform/blob/main/aws-vpc.png)]
+[![Logo](https://github.com/Avinash-Mahto/aws-vpc-terraform/blob/main/aws-vpc.png)](https://github.com/Avinash-Mahto/aws-vpc-terraform)
 # AWS VPC Terraform Script
 
 ## Overview
