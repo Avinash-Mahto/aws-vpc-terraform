@@ -25,7 +25,7 @@ Before you begin, ensure that you have the following:
    ```bash
    terraform init
 3. Review and customize the variables.tf file according to your requirements.
-4. Review and customize the main.tf file if needed.
+4. Review and customize the provider.tf file if needed.
 5. Execute the Terraform plan to preview the changes:
    ```bash
    terraform plan
@@ -34,15 +34,8 @@ Before you begin, ensure that you have the following:
    terraform apply
 7. Once the script execution is complete, your AWS VPC and associated resources will be provisioned.
 
-## Cleanup
+   ## Cleanup
 
-To destroy the created AWS VPC and resources, run:
-   ```bash
-   terraform destroy
-
-
-
-
-Confirm the destruction by typing yes when prompted.
-
-
+   To destroy the created AWS VPC and resources, run:
+      ```bash
+      terraform destroy
